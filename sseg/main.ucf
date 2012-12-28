@@ -1,0 +1,22 @@
+# CoolRunner II starter board
+NET "BTN0" LOC = "143";
+NET "BTN1" LOC = "94";
+NET "SW0" LOC = "39";
+NET "SW1" LOC = "124";
+NET "LEDS<0>" LOC = "69";
+NET "LEDS<1>" LOC = "68";
+NET "LEDS<2>" LOC = "66";
+NET "LEDS<3>" LOC = "64";
+NET "D_AN<0>" LOC = "130";
+NET "D_AN<1>" LOC = "129";
+NET "D_AN<2>" LOC = "128";
+NET "D_AN<3>" LOC = "126";
+NET "D_C<0>" LOC = "56";
+NET "D_C<1>" LOC = "53";
+NET "D_C<2>" LOC = "60";
+NET "D_C<3>" LOC = "58";
+NET "D_C<4>" LOC = "57";
+NET "D_C<5>" LOC = "54";
+NET "D_C<6>" LOC = "61";
+NET "D_C<7>" LOC = "59";
+NET "MCLK" LOC = "38" | data_gate;
